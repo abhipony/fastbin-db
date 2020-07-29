@@ -1,0 +1,2 @@
+﻿CREATE USER [FastBinReportUser] WITHOUT LOGIN;
+
